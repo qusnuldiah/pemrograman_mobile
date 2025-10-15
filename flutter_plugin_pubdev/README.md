@@ -94,7 +94,7 @@ Container(
 ---
 
 ## Hasil Tampilan
-> Tambahkan screenshot hasil running aplikasi (contohnya `screenshots/result.png`)
+<img width="935" height="582" alt="image" src="https://github.com/user-attachments/assets/d977af28-bac2-409a-a81b-051770f15805" />
 
 | Warna | Widget | Keterangan |
 |--------|----------|------------|
@@ -128,5 +128,6 @@ Mendefinisikan variabel dan constructor agar widget dapat menerima data teks dar
 | `maxFontSize` | double | Ukuran font maksimum |
 
 ---
+
 
 
