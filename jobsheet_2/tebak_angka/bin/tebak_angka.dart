@@ -1,3 +1,4 @@
+// Program ini melatih penggunaan percabangan (if-else) dan perulangan (while loop)
 // game_tebak_angka.dart
 import 'dart:io';
 import 'dart:math';
